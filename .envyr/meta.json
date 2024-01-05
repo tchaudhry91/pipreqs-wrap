@@ -1,0 +1,7 @@
+{
+  "name": "pipreqs-wrap",
+  "interpreter": "/usr/bin/env python",
+  "ptype": "Python",
+  "deps": [],
+  "entrypoint": "pipreqs.py"
+}
